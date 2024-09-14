@@ -1,0 +1,460 @@
+.capinf1{
+    background-image: url(https://i.pinimg.com/originals/13/31/20/13312045ba691fcb8d1fbae330d937e0.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 35px;
+    text-align: start;
+    color: dimgray;
+}
+
+
+.intro{
+    text-align: left;
+    align-items: center;
+    float: left;
+    padding: 20px;
+    font-size: 16px;
+    background-color: dimgray;
+}
+
+.textintro{
+
+background-color: white;
+padding: 20px;
+margin: auto;
+
+
+}
+
+.navbar{
+
+padding-left: 40px;
+
+}
+
+
+
+.demas1{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 35px;
+    text-align: center;
+    color: dimgray;
+    size: 100px;
+    background-image: url(https://www.codastory.com/wp-content/uploads/2020/05/Corona-jihadis-Equality-Labs-hashtag-1920.gif);
+}
+
+.cards{
+
+margin: 1.4%;
+
+}
+
+.footer{
+
+background-color: black;
+color: white;
+text-align: center;
+
+}
+
+.footer-links{
+
+margin-left: 70%;
+
+}
+
+.introprogram{
+
+text-align: left;
+margin: 25px;
+background-color: dimgray;
+color: red;
+padding: 30px;
+border-radius: 10px;
+
+}
+
+.programtitulo{
+
+    background-repeat: no-repeat;
+    background-position-y: 16%;
+    background-size: cover;
+    padding: 35px;
+    text-align: right;
+    color: orange;
+    size: 100px;
+    background-image: url(https://miro.medium.com/v2/resize:fit:1400/1*AlRQd9BmTrOqvmdTHPfGBA.png);
+
+}
+
+.contintroprogram{
+
+    text-align: left;
+    padding: 30px;
+    background-color: dimgray;
+    color: orange;
+    font-size: large;
+}
+
+.acordion{
+
+margin: 50px;
+
+}
+
+.descargapsint{
+
+    color: brown;
+}
+
+.descpsint{
+
+color: chocolate;
+font-size: x-large;
+
+}
+
+.descpsint{
+
+    font-size: x-large;
+    color: brown;
+}
+
+.iniciandopsint{
+
+    font-size: x-large;
+    color: orange;
+
+}
+
+.entradaysalida{
+
+    font-size: x-large;
+    color: green;
+    
+}
+
+.asignacion{
+
+    font-size: x-large;
+    color: blue;
+}
+
+.Masdetalle{
+
+    font-size: x-large;
+    color: red;
+
+}
+
+.sistemasintro{
+
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 35px;
+    text-align: center;
+    color: white;
+    size: 100px;
+    background-color: red;
+
+}
+
+.introaccess{
+
+    text-align: left;
+    margin: 25px;
+    background-color: red;
+    color: white;
+    padding: 30px;
+    border-radius: 10px;
+
+    display: flex;
+    text-align: left;
+    align-items: center;
+    float: left;
+    padding: 30px
+}
+
+.p2{
+
+    text-align: left;
+    margin: 25px;
+    background-color: red;
+    color: white;
+    padding: 40px;
+    border-radius: 10px;
+
+    display: flex;
+    text-align: left;
+    align-items: center;
+    float: left;
+    padding: 30px
+
+}
+
+.parraf2{
+
+    text-align: left;
+    margin: 25px;
+    background-color: red;
+    color: white;
+    padding: 40px;
+    border-radius: 10px;
+
+    display: flex;
+    text-align: left;
+    align-items: center;
+    float: left;
+    padding: 30px
+
+}
+
+.parr3{
+
+    text-align: left;
+    margin: 25px;
+    background-color: red;
+    color: white;
+    padding: 40px;
+    border-radius: 10px;
+
+    display: flex;
+    text-align: left;
+    align-items: center;
+    float: left;
+    padding: 30px
+
+}
+
+.p3{
+
+    text-align: left;
+    margin: 25px;
+    background-color: red;
+    color: white;
+    padding: 40px;
+    border-radius: 10px;
+
+    display: flex;
+    text-align: left;
+    align-items: center;
+    float: left;
+    padding: 30px
+
+}
+
+.footer2{
+
+    background-color: black;
+    color: white;
+    text-align: center;
+
+}
+
+.footer3{
+
+    background-color: white;
+    color: black;
+    text-align: center;
+
+}
+
+.bgweb{
+
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 35px;
+    text-align: right;
+    color:  aquamarine;
+    size: cover;
+    background-image: url(/IMAGENES/Captura\ de\ pantalla\ 2024-03-29\ 091730.png);
+    font-size: 40px;
+
+
+}
+
+.introhtml{
+
+    text-align: left;
+    margin: 25px;
+    background-color: dimgrey;
+    color: white;
+    padding: 40px;
+    border-radius: 10px;
+
+    display: flex;
+    text-align: left;
+    align-items: center;
+    float: left;
+    padding: 30px
+
+}
+
+.css3{
+
+    text-align: left;
+    margin: 25px;
+    background-color: dimgrey;
+    color: white;
+    padding: 40px;
+    border-radius: 10px;
+
+    display: flex;
+    text-align: left;
+    align-items: center;
+    float: left;
+    padding: 30px
+
+}
+
+.htmlcss{
+
+    text-align: left;
+    margin: 25px;
+    background-color: dimgrey;
+    color: white;
+    padding: 40px;
+    border-radius: 10px;
+
+    display: flex;
+    text-align: left;
+    align-items: center;
+    float: left;
+    padding: 30px
+
+}
+
+.introdiseñodig{
+
+    background-repeat: no-repeat;
+    background-position-y: 16%;
+    background-size: cover;
+    padding: 35px;
+    text-align: center;
+    color: white;
+    size: 100px;
+    background-color: green;
+    font-size: xx-large;
+
+
+}
+
+.carrosel{
+
+size: 100%;
+
+}
+
+.introcorel{
+
+    text-align: left;
+    margin: 25px;
+    background-color: green;
+    color: white;
+    padding: 40px;
+    border-radius: 10px;
+
+    display: flex;
+    text-align: left;
+    align-items: center;
+    float: left;
+    padding: 30px
+
+}
+
+.corelfuncion{
+
+    text-align: left;
+    margin: 25px;
+    background-color: green;
+    color: white;
+    padding: 40px;
+    border-radius: 10px;
+    display: flex;
+    text-align: left;
+    align-items: center;
+    float: left;
+    padding: 30px
+    
+}
+
+.coreltxt{
+
+    text-align: left;
+    margin: 25px;
+    background-color: green;
+    color: white;
+    padding: 40px;
+    border-radius: 10px;
+    display: flex;
+    text-align: left;
+    align-items: center;
+    float: left;
+    padding: 30px
+    
+}
+
+.core2{
+
+    text-align: left;
+    margin: 25px;
+    background-color: green;
+    color: white;
+    padding: 40px;
+    border-radius: 10px;
+    display: flex;
+    text-align: left;
+    align-items: center;
+    float: left;
+    padding: 30px
+
+}
+
+.corelcierre{
+
+    text-align: left;
+    margin: 25px;
+    background-color: green;
+    color: white;
+    padding: 40px;
+    border-radius: 10px;
+    display: flex;
+    text-align: left;
+    align-items: center;
+    float: left;
+    padding: 30px
+
+}
+
+.corelconclusion{
+
+    text-align: left;
+    margin: 25px;
+    background-color: green;
+    color: white;
+    padding: 40px;
+    border-radius: 10px;
+    display: flex;
+    text-align: left;
+    align-items: center;
+    float: left;
+    padding: 30px
+
+}
+
+.row{
+
+background-color: black
+
+}
+
+.col-md-6{
+
+color: white;
+
+}
